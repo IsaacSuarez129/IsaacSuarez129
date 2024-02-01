@@ -1,4 +1,4 @@
-### Hi there 👋
+### Buenas, Este codigo es del Equipo 2- Pila
 class Pila:
     def _init_(self):
         self.items = []
